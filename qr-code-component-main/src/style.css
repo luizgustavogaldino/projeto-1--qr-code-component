@@ -1,0 +1,17 @@
+html{
+    background-color: var(--cor-de-fundo);
+    width: 1440px;
+}
+
+.container {
+    width: 500px;
+    height: 800px;
+    background-color: var(--cor-branca);
+    border-radius: 10px;
+    display: flex;
+}
+
+img{
+    width: 300px;
+    border-radius: 10px;
+}
